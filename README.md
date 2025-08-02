@@ -2,7 +2,7 @@
 - I’m an app developer | flutter
 - I’m currently working on mobile applications
 - Former UI/UX designer 
-- How to reach me? follow the link: https://www.linkedin.com/in/hasibol-hoda-inu-39a060215/
+- How to reach me? follow the link: [Portfolio](https://hodainuu.web.app/)
 
 <!---
 Hasibol-Hoda-Inu/Hasibol-Hoda-Inu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
