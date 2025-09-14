@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hasibol-Hoda-Inu
-- I’m a mobile developer | flutter
-- Problem-solver
+- App Developer | Flutter
+- Competitive programmer
 - UX Engineer 
 - Checkout my [Portfolio](https://hodainuu.web.app/)
 
